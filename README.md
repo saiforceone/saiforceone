@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning TypeScript, NextJS, Flutter
 - 💞️ I’m looking to collaborate on anything JavaScript
 - 📫 How to reach me @saiforceone on Instagram & Twitter
+- 📺 I livestream coding on Twitch: https://twitch.tv/saiforceone
 
 <!---
 saiforceone/saiforceone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
