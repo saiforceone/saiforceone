@@ -6,7 +6,7 @@ I work primarily as a Fullstack Software developer from Jamaica 🇯🇲 and som
 ## Cool Projects
 
 ### DIRT Stack / DIRT CLI
-A truly down to earth way to create modern Fullstack web applications harnessing the power of **D**jango, **I**nertiaJs, **R**eact & **T**ailwind CSS.
+A truly down to earth way to create modern Fullstack web applications harnessing the power of **D**jango, **I**nertiaJs, **R**eactive UI (React/Vue/Svelte soon) & **T**ailwind CSS.
 - [D.I.R.T CLI on Github](https://github.com/saiforceone/dirt-cli)
 - [D.I.R.T CLI NPM](https://www.npmjs.com/package/@saiforceone/dirt-cli)
 
