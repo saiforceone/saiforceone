@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<h2>Cool Projects</h2>
+<h2>📁 Cool Projects</h2>
 
 <h3>DIRT Stack / DIRT CLI</h3>
 
@@ -29,7 +29,7 @@
   </div>
 </div>
 
-<h4>Links</h4>
+<h4>🔗 Links</h4>
 <div id="dirt-stack-links">
   <a href="https://www.npmjs.com/package/@saiforceone/dirt-cli">
     <img alt="dirt-stack cli on npm" src="https://img.shields.io/badge/dirt%20stack%20cli%20on%20npm-red?style=for-the-badge&logo=npm&logoColor=white" />
@@ -39,24 +39,35 @@
     <img alt="dirt-stack cli on github" src="https://img.shields.io/badge/dirt%20stack%20cli%20on%20github-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-<h4>Made with D.I.R.T</h4>
+<h4>🌱 Made with D.I.R.T</h4>
 <div id="dirt-made-links">
   <a href="https://dirt-stack.vercel.app/">
     <img alt="dirt-stack landing" src="https://img.shields.io/badge/dirt%20stack%20cli%20landing%20page-black?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </div>
 
-## 🛠️ Programming / Scripting Languages
-- JavaScript/TypeScript
-- Python
-- PHP
+<h2>🛠️ Frameworks / Languages / Runtimes</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+</div>
 
-## 🤖 Frameworks / Libraries / Runtimes
-- React / React Native
-- Vue
-- Django
-- Laravel
-- NodeJs
+
+<h2>🔥 Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saiforceone&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiforceone&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 saiforceone/saiforceone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
