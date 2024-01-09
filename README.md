@@ -25,6 +25,10 @@
   <a href="https://github.com/saiforceone/strm-cli">
     <img alt="ST🌀RM Stack cli on github" src="https://img.shields.io/badge/st🌀rm%20stack%20cli%20on%20github-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br>
+  <a href="https://www.npmjs.com/package/create-storm-stack">
+    <img alt="create-storm-stack on npm" src="https://img.shields.io/badge/create%20storm%20stack%20on%20npm-red?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
 </div>
 
 <h3>DIRT Stack / DIRT CLI</h3>
